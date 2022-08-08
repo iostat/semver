@@ -13,7 +13,7 @@ repository = "https://github.com/dtolnay/semver"
 rust-version = "1.31"
 
 [features]
-default = ["std"]
+default = []
 std = []
 
 [dependencies]
